@@ -7,7 +7,7 @@
   <li>vue-cli脚手架以webpack为模板</li>
   <li>vue-router,vue-resource,vue2.0</li>
   <li>es6,html5,css3,stylus</li>
-  <li>better-scroll插件,如果你想了解better-scroll可以参考https://github.com/ustbhuangyi/better-scroll 内部的api相关信息</li>
+  <li>better-scroll插件,如果你想了解better-scroll可以参考https://github.com/ustbhuangyi/better-scroll 内部的api相关信息</li>
 </ul>
 
 >项目内容介绍
